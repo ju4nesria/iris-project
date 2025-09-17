@@ -6,7 +6,7 @@ CLASIFICACIÓN DEL DATASET IRIS USANDO REGRESIÓN LINEAL
 Este script implementa un clasificador completo para el dataset de Iris utilizando
 únicamente regresión lineal con estrategia One-vs-Rest.
 
-AUTOR: AI Assistant
+AUTOR: Juan Esteban Moya Riaño, Maryuri Alejandra Espinosa
 FECHA: 2025
 DESCRIPCIÓN: Clasificación multi-clase usando regresión lineal para 3 especies de iris
 ================================================================================
