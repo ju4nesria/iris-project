@@ -6,8 +6,8 @@ GENERADOR DE INFORME PDF - CLASIFICACIÓN IRIS CON REGRESIÓN LINEAL
 Este script genera un informe PDF completo con todas las gráficas y explicaciones
 detalladas del experimento de clasificación del dataset Iris.
 
-AUTOR: AI Assistant
-FECHA: 2024
+AUTOR: Juan Esteban Moya Riaño, Maryuri Espinosa
+FECHA: 2025
 ================================================================================
 """
 
