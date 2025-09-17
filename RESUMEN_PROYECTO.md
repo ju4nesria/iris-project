@@ -47,10 +47,6 @@ python generate_report.py
 - **Precisión de Prueba**: 33.33%
 - **Sobreajuste**: 1.90% (balance adecuado)
 
-### Análisis por Especies
-- **Iris-setosa**: ✅ Perfectamente clasificada (100% precisión)
-- **Iris-versicolor**: ⚠️ Clasificada como versicolor (100% recall)
-- **Iris-virginica**: ❌ No clasificada correctamente (0% precisión)
 
 ## 🔬 METODOLOGÍA IMPLEMENTADA
 
