@@ -116,7 +116,7 @@ def create_title_page(pdf):
     ax.text(0.5, 0.5, info_text, ha='center', va='center', fontsize=12)
     
     # Fecha y autor
-    ax.text(0.5, 0.2, 'Autor: AI Assistant\nFecha: 2024', 
+    ax.text(0.5, 0.2, 'Autor: Juan Esteban Moya Riaño\nFecha: 2025', 
             ha='center', va='center', fontsize=12)
     
     pdf.savefig(fig, bbox_inches='tight')
